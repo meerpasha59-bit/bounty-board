@@ -2,6 +2,8 @@
 
 **Flip the Switch Hackathon · Track 02: Best Personal or Creative Workflow**
 
+**Demo video:** https://youtu.be/ea9owMialsk
+
 I enter a lot of hackathons and bounties. The painful part is never the building — it's the pipeline around it: finding contests that are actually open, reading 4,000-word rules pages to see whether someone in India can enter and get paid, converting "Dec 4, 2:00 pm PST" into my own clock, and remembering the deadline before it's gone.
 
 Bounty Board turns that pipeline into **one chat room where I work with three AI agents through [Switch](https://github.com/sandbox-quantum/switch)**:
